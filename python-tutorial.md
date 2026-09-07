@@ -32,25 +32,9 @@ Change the examples and rerun code examples many times: experimentation is part 
 ## Prerequisites: Python
 You need access to Python 3 to complete this tutorial. You can run the introductory examples in an IDE, a notebook environment, or the Python interpreter.
 
-For later course tutorials, including IoT exercises, you need Python installed on your computer because the scripts interact with local files, packages, and hardware information.
+## Exercises
+Exercises are available [here](exercises.md)
 
-For a local installation, the recommended setup is:
-* Miniconda for installing Python and managing packages
-* Spyder for writing, running, and debugging Python scripts
-* JupyterLab for working interactively with notebooks
-* a terminal or Anaconda Prompt for installing packages and running scripts
-
-Spyder and Jupyter are available on the computers in LTU’s campus computer rooms.
-
-### Other alternatives
-
-You may use another Python development environment if you are already familiar with it. Alternatives include:
-* Python from python.org with a text editor and terminal
-* Visual Studio Code with the Python extension
-* PyCharm
-* the full Anaconda Distribution
-
-[Google Colab](https://colab.research.google.com/) can be used for the introductory examples without installing Python locally. Colab is a hosted notebook environment that normally requires a Google account and executes code on a remote computer. 
 
 ---
 
@@ -164,10 +148,8 @@ Output:
 ```
 
 The second assignment makes `x` refer to `12` instead of `10`.
----
 
-### Exercises
-Continue with [the exercises on variables and assignment](exercises.md#variables-and-assignment).
+---
 
 
 ## 2. Operators and expressions
@@ -316,8 +298,6 @@ NameError: name 'z' is not defined
 ```
 
 ---
-### Exercises
-Continue with [the exercises on operators and expressions](exercises.md#operators-and-expressions).
 
 ## 4. Comments
 
