@@ -740,7 +740,7 @@ sensor_104: 0.048
 ```
 
 In this example, `": "` is the separator. The original list is not modified; `join` returns a new string.
-```
+
 
 ---
 
