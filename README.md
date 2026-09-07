@@ -2,11 +2,13 @@
 
 An introductory Python tutorial. The tutorial develops the concepts needed to read, reason about, and write short Python programs. 
 
+For a more comprehensive introduction, see Allen B. Downey’s [*Think Python* (3rd ed.)](https://allendowney.github.io/ThinkPython/), from which terminology and definitions have been adapted under the [CC BY-NC-SA 4.0 licence](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+
 ## Outline
 
 1. Read the [Python tutorial](python-tutorial.md)
 2. Complete the [Python exercises](exercises.md)
-3. Consult the [glossary](glossary.md) when you encounter unfamiliar terminology
+3. Consult the [glossary](glossary.md) if needed
 
 
 ## Topics
