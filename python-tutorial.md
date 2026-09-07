@@ -73,6 +73,21 @@ Exercises are available [here](exercises.md)
 
 
 ---
+## Table of contents
+
+- [1. Values, variables, and data types](#1-values-variables-and-data-types)
+- [2. Operators and expressions](#2-operators-and-expressions)
+- [3. Execution order and tracing](#3-execution-order-and-tracing)
+- [4. Comments](#4-comments)
+- [5. Conditional execution](#5-conditional-execution)
+- [6. Lists](#6-lists-ordered-collections)
+- [7. Strings](#7-strings)
+- [8. Loops and repeated computation](#8-loops-and-repeated-computation)
+- [9. Dictionaries](#9-dictionaries-keyvalue-mappings)
+- [10. Functions](#10-functions)
+- [11. Importing modules](#11-importing-modules)
+- [12. Scripts, programs, and code structure](#12-scripts-programs-and-code-structure)
+- [13. Common errors and how to diagnose them](#13-common-errors-and-how-to-diagnose-them)
 
 ## 1. Values, variables, and data types
 
