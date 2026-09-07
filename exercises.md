@@ -12,10 +12,9 @@ What happens, and why?
 mass = 12
 print(Mass)
 ```
----
-Return to [Variables and assignment](python-tutorial.md#variables-and-assignment).
 
 ## Operators and expressions
+
 ### Exercise 2: 
 
 What happens, and why?
@@ -25,7 +24,6 @@ adjusted = raw + 2
 raw = 8
 print(adjusted)
 ```
-
 
 
 ### Exercise 3: 
@@ -46,11 +44,19 @@ x = 2
 print((x + 3) ** 2)
 ```
 
----
-Return to [Variables and assignment](python-tutorial.md#operators-and-expressions).
+## Comments
 
+### Exercise 5: 
 
-### Exercise 5: list length and indexing
+Which line is a valid Python comment?
+
+1. `// Calculate the average`
+2. `# Calculate the average`
+3. `/* Calculate the average */`
+4. `<!-- Calculate the average -->`
+
+## Lists
+### Exercise 6:
 
 Predict both outputs:
 
@@ -60,7 +66,7 @@ print(len(observations))
 print(observations[-1])
 ```
 
-### Exercise 6: slicing
+### Exercise 7: 
 
 Predict the output:
 
@@ -69,30 +75,22 @@ codes = ["A", "B", "C", "D", "E"]
 print(codes[1:4])
 ```
 
-### Exercise 7: dictionary lookup
+## Strings
 
+### Exercise 8: 
 Predict the output:
 
 ```python
-weights = {"low": 0.5, "medium": 1.0, "high": 1.5}
-print(weights["high"])
+sensor_id = 4
+amplitude = 0.094812
+
+print(f"Sensor {sensor_id}: peak = {amplitude:.1f} m/s²")
 ```
 
-### Exercise 8: loop state
 
-Predict the output:
+## Conditional execution
 
-```python
-values = [2, 3, 4]
-products = []
-
-for value in values:
-    products.append(value * 10)
-
-print(products)
-```
-
-### Exercise 9: conditionals
+### Exercise 9: 
 
 Predict the output:
 
@@ -109,18 +107,33 @@ else:
 print(category)
 ```
 
-### Exercise 10: functions
+## Loops
+
+### Exercise 10: 
 
 Predict the output:
 
 ```python
-def normalize(value, maximum):
-    return value / maximum
+values = [2, 3, 4]
+products = []
 
-print(normalize(15, 20))
+for value in values:
+    products.append(value * 10)
+
+print(products)
 ```
 
-### Exercise 11: combine the concepts
+## Dictionaries
+
+### Exercise 11: 
+
+Predict the output:
+
+```python
+weights = {"low": 0.5, "medium": 1.0, "high": 1.5}
+print(weights["high"])
+```
+### Exercise 12: 
 
 Predict the output:
 
@@ -135,7 +148,23 @@ for value in selected:
 print(squared)
 ```
 
-### Exercise 12: structuring a script
+
+## Functions
+
+### Exercise 13: 
+
+Predict the output:
+
+```python
+def normalize(value, maximum):
+    return value / maximum
+
+print(normalize(15, 20))
+```
+
+## Scripts, programs, and code structure
+
+### Exercise 14: 
 
 Put these parts in a conventional order: the import statement, configuration value, function definition, and main code. Then explain why the import must appear before the call to `math.sqrt`.
 
