@@ -52,4 +52,4 @@ You may use another Python development environment if you are already familiar w
 [Google Colab](https://colab.research.google.com/) can be used for the introductory examples without installing Python locally. Colab is a hosted notebook environment that normally requires a Google account and executes code on a remote computer. 
 
 ## What's next
-Once done with the tutorial, check out the [IoT tutorial](https://github.com/MaintenanceLTU/iot-mqtt-node-red-lab)
+Once done with the tutorial, check out the [IoT tutorial](https://maintenanceltu.github.io/iot-mqtt-node-red-lab/)
