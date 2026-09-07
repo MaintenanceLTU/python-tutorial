@@ -6,8 +6,8 @@ For a more comprehensive introduction, see Allen B. Downey’s [*Think Python* (
 
 ## Outline
 
-1. Read the [Python tutorial](python-tutorial.md)
-2. Complete the [Python exercises](exercises.md)
+1. Work through the [Python tutorial](python-tutorial.md)
+2. Practise with the [Python exercises](exercises.md)
 3. Consult the [glossary](glossary.md) if needed
 
 
