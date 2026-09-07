@@ -25,9 +25,8 @@ Definitions of technical terms are available in the [Python glossary](glossary.m
 
 Change the examples and rerun code examples many times: experimentation is part of learning programming.
 
-## Sources and acknowledgements
-- For a more comprehensive introduction, see Allen B. Downey’s [*Think Python* (3rd ed.)](https://allendowney.github.io/ThinkPython/), from which terminology and selected glossary definitions have been adapted under the [CC BY-NC-SA 4.0 licence](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
-- This tutorial was developed with assistance from OpenAI Codex, which was used to review explanations, code examples, exercises, and terminology. All AI-assisted content was reviewed and revised by the author, who takes responsibility for the final material.
+### Acknowledgements
+This tutorial was developed with assistance from OpenAI Codex, which was used to review explanations, code examples, exercises, and terminology. All AI-assisted content was reviewed and revised by the author, who takes responsibility for the final material.
 
 ## Prerequisites: Python
 You need access to Python 3 to complete this tutorial. You can run the introductory examples in an IDE, a notebook environment, or the Python interpreter.
