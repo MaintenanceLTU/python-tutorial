@@ -28,8 +28,45 @@ Change the examples and rerun code examples many times: experimentation is part 
 ### Acknowledgements
 This tutorial was developed with assistance from OpenAI Codex, which was used to review explanations, code examples, exercises, and terminology. All AI-assisted content was reviewed and revised by the author, who takes responsibility for the final material.
 
-## Prerequisites: Python
+## Python
 You need access to Python 3 to complete this tutorial. You can run the introductory examples in an IDE, a notebook environment, or the Python interpreter.
+
+### Editor and interpreter
+
+Python code is called **source code**. Two different tools are involved when working with source code:
+
+* a **code editor** is used to write and modify source code
+* the **Python interpreter** reads and executes the source code
+
+An editor does not execute Python by itself. When you select **Run**, the editor sends the code to the Python interpreter. The interpreter performs the specified operations and displays any output or error messages in a console.
+
+An **IDE**, such as Spyder, combines an editor, access to the interpreter, a console, and debugging tools in one application.
+
+Python code can be executed in two main ways.
+
+In **interactive mode**, you enter and execute one statement at a time. The Python interpreter commonly displays a prompt containing three greater-than signs:
+
+```text
+>>> print("Hello, Python!")
+Hello, Python!
+```
+
+The `>>>` characters are the interpreter prompt and are not part of the Python code.
+
+In **script mode**, source code is saved in a file whose name ends in `.py`. The interpreter then executes the statements in the file:
+
+```python
+print("Hello, Python!")
+```
+
+For example, the file might be saved as `hello.py` and executed from a terminal:
+
+```console
+python hello.py
+```
+
+A notebook provides another interface to the interpreter. Code is divided into cells that can be executed individually, with the output displayed below each cell.
+
 
 ## Exercises
 Exercises are available [here](exercises.md)
