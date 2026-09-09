@@ -53,3 +53,8 @@ You may use another Python development environment if you are already familiar w
 
 ## What's next
 Once done with the tutorial, check out the [IoT tutorial](https://maintenanceltu.github.io/iot-mqtt-node-red-lab/)
+
+## License
+Source code in this repository is licensed under the [MIT License](LICENSE-CODE).
+
+Teaching materials, documentation, figures, and other non-code content are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE-CONTENT.md), unless otherwise stated.
