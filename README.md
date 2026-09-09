@@ -2,7 +2,7 @@
 
 An introductory Python tutorial. The tutorial develops the concepts needed to read, reason about, and write short Python programs. 
 
-For a more comprehensive introduction, see Allen B. Downey’s [*Think Python* (3rd ed.)](https://allendowney.github.io/ThinkPython/), from which terminology and definitions have been adapted under the [CC BY-NC-SA 4.0 licence](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+For a more comprehensive introduction, see Allen B. Downey’s [*Think Python* (3rd ed.)](https://allendowney.github.io/ThinkPython/).
 
 ## Outline
 
